@@ -1,4 +1,4 @@
-# Capstone Project Description
+# Capstone Project's  Description
 
 ## 1. Module one
 In the first module, you’ll receive an introduction to the Little Lemon project environment and help them to set up their database.
